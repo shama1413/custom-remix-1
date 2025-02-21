@@ -14,9 +14,13 @@
     "@remix-run/node": "^2.15.3",
     "@remix-run/react": "^2.15.3",
     "@remix-run/serve": "^2.15.3",
+    "axios": "^1.7.9",
+    "cookie": "^1.0.2",
+    "dotenv": "^16.4.7",
     "isbot": "^4.1.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "remix-flat-routes": "^0.8.5"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.15.3",
