@@ -48,8 +48,8 @@ export default function Profile() {
     return (
         <div>
             <h1>Profile</h1>
-            <p>First Name: {user.firstName}</p>
-            <p>Last Name: {user.lastName}</p>
+            <p>First Name: {user.first_name}</p>
+            <p>Last Name: {user.last_name}</p>
 
             <h2>Authors</h2>
             <ul>
